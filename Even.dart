@@ -11,7 +11,6 @@ void checkEvenOrOdd(int number) {
 void main() {
   int num = 10;
   checkEvenOrOdd(num);
-  
   num = 7;
   checkEvenOrOdd(num);
 }
