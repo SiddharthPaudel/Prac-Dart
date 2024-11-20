@@ -3,7 +3,7 @@ void main() {
 }
 
 double simple({
-  double? p,
+  required double? p,
   double? t,
   double?r,
 }) {
